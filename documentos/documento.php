@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    Esto es un documento de prueba
+    Esto es un documento de prueba. Versión 2
   </body>
 </html>
